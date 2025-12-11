@@ -1,7 +1,7 @@
 # আসসালামু ওয়ালাইকুম
 
 <!--
-**monirhossainjihad014/monirhossainjihad014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MD. MONIR HOSSAIN JIHAD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
